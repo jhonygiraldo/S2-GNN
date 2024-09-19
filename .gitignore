@@ -1,8 +1,8 @@
-./__pycache__/
-/*/__pycache__/
-/*/*/__pycache__/
-./results*/*
-./ablation/*
-./data/*
-./bash/*
-./single_training/*
+__pycache__/*
+*/__pycache__/*
+*/*/__pycache__/*
+results*/*
+ablation/*
+data/*
+bash/*
+single_training/*
