@@ -1,6 +1,6 @@
 # Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks (S2-GNN)
 
-This is the repository of the paper "Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks" published in the IEEE Transactions on Signal and Information Processing over Networks (TSIP).
+This is the repository of the paper "Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks" published in the IEEE Transactions on Signal and Information Processing over Networks (IEEE T-SIPN).
 
 **Authors:** [Jhony H Giraldo](https://sites.google.com/view/jhonygiraldo), Aref Einizade, Andjela Todorovic, [Jhon A. Castro-Correa](https://www.eecis.udel.edu/~jcastro/), [Mohsen Badiey](https://www.eecis.udel.edu/~badiey/), Thierry Bouwmans, and [Fragkiskos D. Malliaross](https://fragkiskos.me)
 
@@ -87,16 +87,16 @@ To add a new model, add the corresponding class into the module [s2gnn.nets.mode
 If you use our code, please consider citing our work:
 
 ```bash
-@Inproceedings{giraldo2024s2gnn,
+@article{giraldo2024s2gnn,
   author={Giraldo, Jhony H. and Einizade, Aref and Todorovic, Andjela and Castro-Correa, Jhon A. and Badiey, Mohsen and Bouwmans, Thierry and Malliaros, Fragkiskos D.},
   booktitle={IEEE Transactions on Signal and Information Processing over Networks}, 
   title={Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks}, 
-  year={2023},
+  year={2024},
   volume={},
   number={},
   pages={},
   keywords={Graph neural networks; sparse graph convolutions; higher-order convolutions; graph spectrum; Sobolev norm},
-  doi={}
+  publisher={IEEE}
 }
 ```
 
